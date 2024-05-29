@@ -8,7 +8,7 @@ const anwers: {
   operator: string
 } =await inquirer.prompt([
   { type: "number",
-  name: "numberOne",
+  name: "numberone",
   message: "enter your first number"
 },
 { type: "number",
